@@ -1,0 +1,128 @@
+.bigimg{
+	
+	background-repeat: no-repeat;
+    background-size: cover;
+   background-image:url("donation1.jpg");
+    min-height: 100%;
+	background-attachment:fixed;
+}
+	
+	div.field
+	{
+		margin-left:500px;
+	}
+container
+{
+	margin-left:100px;
+}
+p.hd
+{
+	margin-left:300;
+	margin-right:100px;
+	
+		color:white;
+		font-size:45px;
+		font-family:serief;
+		-webkit-animation: mymove 7s infinite;
+
+ text-shadow: 1px 1px 2px #99FF66, 0 0 25px red, 0 0 5px #CC3366; 
+}
+@-webkit-keyframes mymove 
+	{
+    from 
+	{font-family:Snell Roundhand, cursive;}
+    to 
+	{font-family:HARLOW;}
+    
+	
+	
+    from 
+	{color: #F8F8F8;}
+    to 
+	{color:#484848;}
+    }
+p.hd1
+{
+	margin-left:300px;
+	margin-right:100px;
+	margin-bottom:100px;
+		color:white;
+		font-size:28px;
+		font-family:serief;
+		
+		
+}
+
+div.hd2
+{
+	margin-left:600;
+	margin-right:200px;
+	
+		color:pink;
+		font-size:18px;
+		font-family:serief;
+		
+}
+
+	.fields {
+	
+	width:1000px;
+	margin-left:200px;
+	
+
+	background-color:black;
+	
+	
+	
+}
+.fields input {
+	
+	font-size: 17px;
+	
+	padding: 10px;
+	border-radius: 4px;
+	border-width: 0px;
+	color: #5C5C5C;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+	margin-bottom: 10px;
+	-webkit-font-smoothing: antialiased;
+	
+}
+h1.loginname
+{
+	color:white;
+	margin-top:10px;
+padding:10px 0;
+background-color:#66CC99;
+font-family:"serif"
+}
+h1.d{
+	 text-shadow: 1px 1px 2px black, 0 0 25px red, 0 0 5px #0084b4;
+	background-color:;
+}
+.submit{
+	margin-left:200px;
+}
+* {
+margin:0;
+padding:0;
+border:none;
+}
+body {
+height:100%;
+}
+.left-col {
+border-right: 1px solid #CCC;
+background-color:black;
+}
+.left-col,
+.right-col {
+float:left;
+margin: 0;
+padding:0 101.5px;
+background-color:black;
+}
+w3-modal{
+	background-color:black;
+}

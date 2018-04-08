@@ -1,0 +1,148 @@
+.toppanel
+{
+margin-bottom:0px;
+border-bottom:0px;
+padding-bottom:0px;
+margin:auto;
+}
+.home
+{
+	padding:2px 2px 2px 2px;
+	text-align:center;
+	
+}
+.navbar navbar-inverse
+{
+	margin-bottom 0em;
+	vertical-align:bottom;
+	padding-bottom:-1em;
+}
+
+.nav navbar-nav
+{
+    vertical-align: bottom;
+	margin-bottom:0;
+}
+
+
+.footer {
+    background-image: linear-gradient(to right, #dd4b39 0, #720e9e 100%);
+    padding: 10px 0;
+	margin:0;
+}
+
+.footer a {
+    
+    font-size: 20px;
+    padding: 10px;
+    border-right: 1px solid #70726F;
+    -webkit-transition: all .5s ease;
+    transition: all .5s ease;
+}
+
+.footer a:first-child {
+    border-left: 1px solid #70726F;
+}
+
+.footer a:hover {
+    color: white;
+    -webkit-transition: all .5s ease;
+    transition: all .5s ease;
+}
+.follow
+{
+	text-align:center;
+	
+	color:black;
+}
+
+div.hed
+	{
+	
+		color:#000080  ;
+		text-shadow: 8px 8px 7px #D4AC0D;
+		font-family:Brush Script MT;
+		font-weight:bold;
+		font-size:50px;
+		text-align:center;
+	}
+
+.videoframe
+{
+	margin-left:350px;
+margin-right:250px;
+margin-top:10px;	
+}
+
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+div.bck
+{
+	background-image:url("index1.png");
+	
+	background-repeat:repeat-x;
+}
+p.topp{
+	
+	margin-left:32%;
+	margin-right:200px;
+	height:400px;
+	width:500px;
+		color:black;
+		font-size:20px;
+		font-family:monospace;
+		text-align: justify;
+		
+
+ text-shadow: 1px 1px 2px white, 0 0 25px lightgrey, 0 0 5px darkblue;   
+	
+}
+.help{
+	margin-top:0px;
+	margin-left:15%;
+	text-align: center;
+	 background-image: linear-gradient(to right, #dd4b39 0, #720e9e 100%);
+}
+.hh
+{
+	font-family:monospace;
+     color:black;	
+}
+
+#value
+{
+  
+  margin-top:500px;
+  border-radius:90px;
+  color:red;
+  margin-bottom:100px;
+  
+  font-size:50px;
+}
+.ch{
+	 margin-left:420px;
+	 -webkit-animation: mymove 1s infinite;
+	 
+  font-size:38px;
+}
+@-webkit-keyframes mymove 
+	{
+    from 
+	{color: #000000;}
+    to 
+	{color:#0000FF;}
+	from 
+	{font-family:Snell Roundhand, cursive;}
+    to 
+	{font-family:harlow;}
+    }
+.count
+{
+ 
+  color:white;
+  margin-left:470px;
+  font-size:25px;
+}
